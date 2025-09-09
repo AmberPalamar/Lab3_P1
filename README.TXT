@@ -25,8 +25,8 @@ Answers:
 9.
 10. Error: non-static method getValue() cannot be referenced from a static context
 11. Error: '.class' expected 
-
-
-
+12. int value = to 0 while having < in the setValue but when I changed it to <=, and called the getValue method the private int value was 10
+13.
+14.
 15. ! false, (34 != 33) && ! false
 16. ! (4 > 5) and ! false are both true
