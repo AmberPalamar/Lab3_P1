@@ -32,5 +32,5 @@ Answers:
 16. ! (4 > 5) and ! false are both true
 17.
 18. Yes the getDisplayValue method works in all circumstances. With a display limit of a 1000 and calling the setValue method with 200, when I called the getDisplayValue method, it gave me 200.
-19.
+19. I tested it and did not see any difference.
 20. 12cat and cat12
